@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "32579d02-81cc-4d7a-a146-cf9801af9b9b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "douji_arena": {
+      "ver": "1.0.3",
+      "uuid": "5cacb165-f061-4425-9a3d-82cec14c2cec",
+      "rawTextureUuid": "32579d02-81cc-4d7a-a146-cf9801af9b9b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1080,
+      "height": 720,
+      "rawWidth": 1080,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
